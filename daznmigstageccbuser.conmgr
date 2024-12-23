@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="daznmigstageccbuser"
+  DTS:DTSID="{AA38D412-D924-4B67-9CCA-4DE5374F8AAC}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Dsn=daznmigstageccbuser;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

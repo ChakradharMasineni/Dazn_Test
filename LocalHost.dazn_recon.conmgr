@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.dazn_recon"
+  DTS:DTSID="{20F202DB-B0DF-4467-96C3-4B13FAB1DA26}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=dazn_recon;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Package-{20F202DB-B0DF-4467-96C3-4B13FAB1DA26}LocalHost.dazn_recon;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

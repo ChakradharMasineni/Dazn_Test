@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="daznSTAGEDATACONNECTION"
+  DTS:DTSID="{58F51261-E050-4BDD-A473-63F6EA0F4566}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Dsn=daznSTAGEDATACONNECTION;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
